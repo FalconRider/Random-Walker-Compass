@@ -1,0 +1,39 @@
+*{
+	
+}
+
+body{
+background-image: url("Images/forest.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1{
+color: white;
+background-color:red;
+font: italic 600% ;
+border: white solid 5px;
+margin: 10px;
+}
+
+h4{
+color: black;	
+background-color: yellow;
+border: white solid 5px;
+margin: 10px;
+}
+
+p{
+background-color:blue;
+font: 150% fantasy;
+border: white solid 5px;
+margin: 10px;
+}
+
+img{
+float:center;
+border: white solid 15px;
+border-radius: 50%;
+margin: 10px;
+
+}
